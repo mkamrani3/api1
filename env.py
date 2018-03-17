@@ -7,6 +7,6 @@ DB_DATABASE = 'qurandb'
 DB_USERNAME = 'root'
 DB_PASSWORD = ''
 
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 PORT = 5000
 DEBUG = True
